@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Button } from 'react-bootstrap';
-import './App.css';
+import '../css/App.css';
 import TitleModal from './TitleModal.jsx'
 
 const Header = (props) => {
